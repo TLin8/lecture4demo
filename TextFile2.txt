@@ -1,3 +1,7 @@
 This is text file 2. 
 
 This is lecture 4, learning about gitkraken
+
+(Branch2, Student 2, Mary)
+
+Working in Branch 2, adding header to main page
